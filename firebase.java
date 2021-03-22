@@ -1,4 +1,4 @@
-package net.simplifiedcoding.firebasequeryexample;
+package net.Exterified.firebasequeryexample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
